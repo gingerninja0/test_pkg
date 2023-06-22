@@ -1,0 +1,4 @@
+1. Go to root of the workspace (test_ws)
+2. run: colcon build
+3. run: . install/setup.bash
+4. Not nodes can be run
